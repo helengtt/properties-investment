@@ -20,3 +20,4 @@ Thumbs.db
 # Other #
 #####################
 lib/__pycache__/
+data/properties*.csv
